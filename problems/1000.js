@@ -1,5 +1,5 @@
 'use strict'
 
-export function problem (input) {
+export function problem (lines) {
     console.log ('Hello World!')
-}
+} 

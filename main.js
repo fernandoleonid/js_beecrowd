@@ -14,7 +14,7 @@ const solveProblem = async () =>  {
     const problemNumber = document.getElementById('problem').value
     setProblem (problemNumber)
     
-    const {problem} = await import (`./problem/${problemNumber}.js`)
+    const {problem} = await import (`./problems/${problemNumber}.js`)
     problem(input);
 
 }
