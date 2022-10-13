@@ -9,4 +9,5 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 
 | Problema  |  Nome  |  Vídeo aula |
 | --------- | ------ | --------- |
-|  [1000](./problems/1000.js) | Hello World! | [Solução 1000](https://www.youtube.com/fernandoleonid/) |
+|  [1000](./problems/1000.js) | Hello World! | [Solução 1000](https://youtu.be/3Sb4VPk4JEI) |
+|  [1001](./problems/1001.js) | Extremamente Básico | [Solução 1001](https://youtu.be/6TZlhELLxvo) |
