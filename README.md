@@ -11,4 +11,5 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | --------- | ------ | --------- |
 |  [1000](./problems/1000.js) | Hello World! | [Solução 1000](https://youtu.be/3Sb4VPk4JEI) |
 |  [1001](./problems/1001.js) | Extremamente Básico | [Solução 1001](https://youtu.be/6TZlhELLxvo) |
-|  [1002](./problems/1002.js) | Extremamente Básico | [Solução 1002](https://youtu.be/wH-P7zdNoBQ) |
+|  [1002](./problems/1002.js) | Área do Círculo | [Solução 1002](https://youtu.be/wH-P7zdNoBQ) |
+|  [1003](./problems/1003.js) | Extremamente Básico | [Solução 1003](https://youtu.be/wH-P7zdNoBQ) |
