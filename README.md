@@ -22,4 +22,6 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1006 - Média 2 | [![](./img/js-icon.svg)](./problems/1006.js) | [![](./img/youtube-icon.svg)](https://youtu.be/zc2YasEOmlA) |
 | 1007 - Diferença | [![](./img/js-icon.svg)](./problems/1007.js) | [![](./img/youtube-icon.svg)](https://youtu.be/jEMFFZM4feA) |
 | 1008 - Salário | [![](./img/js-icon.svg)](./problems/1008.js) | [![](./img/youtube-icon.svg)](https://youtu.be/cd1RjqGR9zA) |
+| 1009 - Salário com Bônus | [![](./img/js-icon.svg)](./problems/1009.js) | [![](./img/youtube-icon.svg)](https://youtu.be/1TDWabxPZ4M) |
+| 1010 - Cálculo Simples | [![](./img/js-icon.svg)](./problems/1010.js) | [![](./img/youtube-icon.svg)](https://youtu.be/ipH7PcyWDaQ) |
 ||||
