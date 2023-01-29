@@ -26,3 +26,5 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1010 - Cálculo Simples | [![](./img/js-icon.svg)](./problems/1010.js) | [![](./img/youtube-icon.svg)](https://youtu.be/ipH7PcyWDaQ) |
 | 1011 - Esfera | [![](./img/js-icon.svg)](./problems/1011.js) | [![](./img/youtube-icon.svg)](https://youtu.be/Kwgfx71Nl_E) |
 ||||
+| 1012 - Área | [![](./img/js-icon.svg)](./problems/1012.js) | [![](./img/youtube-icon.svg)](https://youtu.be/WXhy7O45GlQ) |
+||||
