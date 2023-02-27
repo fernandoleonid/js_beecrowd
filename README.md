@@ -29,4 +29,5 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1013 - Maior | [![](./img/js-icon.svg)](./problems/1013.js) | [![](./img/youtube-icon.svg)](https://youtu.be/kQDMctTJa5I) |
 | 1014 - Consumo | [![](./img/js-icon.svg)](./problems/1014.js) | [![](./img/youtube-icon.svg)](https://youtu.be/NqY-dkrt0cc) |
 | 1015 - Distância entre dois pontos | [![](./img/js-icon.svg)](./problems/1015.js) | [![](./img/youtube-icon.svg)](https://youtu.be/pWSnH5zi7fo) |
+| 1016 - Distância | [![](./img/js-icon.svg)](./problems/1016.js) | [![](./img/youtube-icon.svg)](https://youtu.be/Sv1bwO_WYro) |
 ||||
