@@ -30,4 +30,5 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1014 - Consumo | [![](./img/js-icon.svg)](./problems/1014.js) | [![](./img/youtube-icon.svg)](https://youtu.be/NqY-dkrt0cc) |
 | 1015 - Distância entre dois pontos | [![](./img/js-icon.svg)](./problems/1015.js) | [![](./img/youtube-icon.svg)](https://youtu.be/pWSnH5zi7fo) |
 | 1016 - Distância | [![](./img/js-icon.svg)](./problems/1016.js) | [![](./img/youtube-icon.svg)](https://youtu.be/Sv1bwO_WYro) |
+| 1017 - Gasto de combustível | [![](./img/js-icon.svg)](./problems/1017.js) | [![](./img/youtube-icon.svg)](https://youtu.be/xTaDIW33Fcs) |
 ||||
