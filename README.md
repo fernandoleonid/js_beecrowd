@@ -32,4 +32,5 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1016 - Distância | [![](./img/js-icon.svg)](./problems/1016.js) | [![](./img/youtube-icon.svg)](https://youtu.be/Sv1bwO_WYro) |
 | 1017 - Gasto de combustível | [![](./img/js-icon.svg)](./problems/1017.js) | [![](./img/youtube-icon.svg)](https://youtu.be/xTaDIW33Fcs) |
 | 1018 - Cédulas | [![](./img/js-icon.svg)](./problems/1018.js) | [![](./img/youtube-icon.svg)](https://youtu.be/AnIh2blAVVE) |
+| 1019 - Conversão de tempo | [![](./img/js-icon.svg)](./problems/1019.js) | [![](./img/youtube-icon.svg)](https://youtu.be/1r8lS7MoQqQ) |
 ||||
