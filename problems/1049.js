@@ -1,22 +1,23 @@
 export function problem (lines){
     const [classe1, classe2, classe3] = lines
+
     const tabela = {
         vertebrado: {
             ave:{
                 carnivoro: 'aguia',
-                onivoro: 'pomba'
+                onivoro:'pomba'
             },
-            mamifero:{
+            mamifero: {
                 onivoro: 'homem',
-                hervivoro: 'vaca'
+                herbivoro: 'vaca'
             }
         },
-        invertebrado:{
-            inseto: {
+        invertebrado: {
+            inseto:{
                 hematofago: 'pulga',
                 herbivoro: 'lagarta'
             },
-            anelideo: {
+            anelideo:{
                 hematofago: 'sanguessuga',
                 onivoro: 'minhoca'
             }
@@ -25,5 +26,5 @@ export function problem (lines){
 
     const animal = tabela[classe1][classe2][classe3]
 
-    console.log (animal)
+    console.log(animal)
 }
