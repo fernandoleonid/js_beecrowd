@@ -1,5 +1,5 @@
 
-![](./img/beecrowd.webp)
+![](./img/js_beecrowd.png)
 
 # Beecrowd Soluções
 
