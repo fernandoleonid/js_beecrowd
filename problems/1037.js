@@ -1,3 +1,4 @@
+// Intervalo
 export function problem (lines){
     const valor = parseFloat(lines[0])
 

@@ -1,3 +1,4 @@
+// Tempo de Jogo
 export function problem(lines){
 
     const lerHoras = lines => lines[0].split(' ').map(Number)

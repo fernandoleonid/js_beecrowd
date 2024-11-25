@@ -1,3 +1,4 @@
+// Quadrado de Pares
 export function problem (lines) {
     const n = Number(lines[0])
 

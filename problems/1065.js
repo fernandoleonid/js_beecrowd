@@ -1,3 +1,4 @@
+// Pares entre Cinco Números
 export function problem (lines){
     const quantidadePares = lines
             .slice(0, -1)

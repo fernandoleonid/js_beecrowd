@@ -1,3 +1,4 @@
+// Imposto de Renda
 export function problem (lines){
     let salario = Number(lines[0])
     let imposto = 0

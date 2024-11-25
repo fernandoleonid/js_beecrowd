@@ -1,3 +1,4 @@
+// Tipos de Triângulos
 export function problem (lines){
     let [a, b, c] = lines[0].split(' ').map(Number)
     

@@ -1,3 +1,4 @@
+// Triângulo
 export function problem (lines){
     const [a, b, c] = lines[0].split(' ').map(Number)
 

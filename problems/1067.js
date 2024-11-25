@@ -1,3 +1,4 @@
+// Números Ímpares
 export function problem (lines) {
     const x = Number(lines[0])
 

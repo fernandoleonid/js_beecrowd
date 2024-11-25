@@ -1,3 +1,4 @@
+// Animal
 export function problem (lines){
     const [classe1, classe2, classe3] = lines
 

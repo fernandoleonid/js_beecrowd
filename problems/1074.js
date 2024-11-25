@@ -1,3 +1,4 @@
+// Par ou Ímpar
 export function problem (lines) {
     const n = Number(lines[0])
 

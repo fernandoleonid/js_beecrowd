@@ -1,3 +1,4 @@
+// Múltiplos
 export function problem (lines){
     const [a, b] = lines[0].split(' ')
  

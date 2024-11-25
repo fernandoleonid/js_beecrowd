@@ -1,3 +1,4 @@
+// Soma de Ímpares Consecutivos I
 export function problem (lines) {
     const [x, y] = lines.map(Number)
 

@@ -1,3 +1,4 @@
+// Positivos e Média
 export function problem (lines){
     const valoresPositivos = lines.map(Number)
                                   .filter( valor => valor > 0)

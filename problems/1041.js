@@ -1,3 +1,4 @@
+// Coordenadas de um Ponto
 export function problem(lines) {
 
     function determinarQuadrante (x, y) {

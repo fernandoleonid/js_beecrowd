@@ -1,3 +1,4 @@
+// Teste de Seleção 1
 export function problem (lines) {
 
     const valores = lines[0].split(' ').map(Number)

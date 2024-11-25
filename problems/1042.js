@@ -1,3 +1,4 @@
+// Sort Simples
 export function problem(lines) {
     const valores = lines[0].split(' ').map(Number)
 

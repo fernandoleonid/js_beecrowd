@@ -1,3 +1,4 @@
+// Seis Números Ímpares
 export function problem (lines){
     const numero = Number(lines[0])
 

@@ -1,3 +1,4 @@
+// Tempo de Jogo com Minutos
 export function problem (lines){
     const [horaInicial, minutoInicial, horaFinal, minutoFinal] = lines[0].split(' ').map(Number)
 

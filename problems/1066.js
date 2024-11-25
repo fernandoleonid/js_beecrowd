@@ -1,3 +1,4 @@
+// Pares, Ímpares, Positivos e Negativos
 export function problem (lines){
     const numeros = lines.slice(0,-1).map(Number)
 

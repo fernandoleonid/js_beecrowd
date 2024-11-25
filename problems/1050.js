@@ -1,3 +1,4 @@
+// DDD
 export function problem (lines) {
 
     const ddd = lines[0]

@@ -1,3 +1,4 @@
+// Média 3
 export function problem(lines){
     const notas = lines[0].split(' ').map(Number)
     const pesos = [2, 3, 4, 1]
