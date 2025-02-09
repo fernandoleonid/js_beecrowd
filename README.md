@@ -67,3 +67,16 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1075 - Resto 2 | [![](./img/js-icon.svg)](problems/1075.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
 | 1078 - Tabuada | [![](./img/js-icon.svg)](problems/1078.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
 | 1079 - Médias Ponderadas | [![](./img/js-icon.svg)](problems/1079.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1080 - Maior e Posição | [![](./img/js-icon.svg)](problems/1080.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1094 - Experiências | [![](./img/js-icon.svg)](problems/1094.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1095 - Sequencia IJ 1 | [![](./img/js-icon.svg)](problems/1095.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1096 - Sequencia IJ 2 | [![](./img/js-icon.svg)](problems/1096.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1097 - Sequencia IJ 3 | [![](./img/js-icon.svg)](problems/1097.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1098 - Sequencia IJ 4 | [![](./img/js-icon.svg)](problems/1098.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1099 - Soma de Ímpares Consecutivos II | [![](./img/js-icon.svg)](problems/1099.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1101 - Sequência de Números e Soma | [![](./img/js-icon.svg)](problems/1101.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1113 - Crescente e Decrescente | [![](./img/js-icon.svg)](problems/1113.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1114 - Senha Fixa | [![](./img/js-icon.svg)](problems/1114.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1115 - Quadrante | [![](./img/js-icon.svg)](problems/1115.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1116 - Dividindo X por Y | [![](./img/js-icon.svg)](problems/1116.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1117 - Validação de Nota | [![](./img/js-icon.svg)](problems/1117.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |

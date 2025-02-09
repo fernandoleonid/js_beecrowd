@@ -1,3 +1,4 @@
+// Sequencia IJ 1
 export function problem (lines) {
     let i = 1
     let j = 60

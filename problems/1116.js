@@ -1,3 +1,4 @@
+// Dividindo X por Y
 export function problem (lines) {
     lines.shift()
     lines.pop()

@@ -1,3 +1,4 @@
+// Senha Fixa
 export function problem (lines) {
     let indice = 0
     while (lines[indice] !== "2002") {

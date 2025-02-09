@@ -1,3 +1,4 @@
+// Sequencia IJ 4
 export function problem (lines) {
     const saltos = [1, 2, 3]
 

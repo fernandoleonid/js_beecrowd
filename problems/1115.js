@@ -1,3 +1,4 @@
+// Quadrante
 export function problem (lines) {
     lines.forEach ( line => {
         const [x, y] = line.split(' ').map(Number)

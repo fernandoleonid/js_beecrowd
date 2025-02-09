@@ -1,3 +1,4 @@
+// Validação de Nota
 export function problem(lines){
     let notasValidas = 0
     let soma = 0

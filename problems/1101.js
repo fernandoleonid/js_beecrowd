@@ -1,3 +1,4 @@
+// Sequência de Números e Soma
 export function problem (lines) {
     lines.forEach ( line => {
         const [m, n] = line.split(' ')
