@@ -76,7 +76,7 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1099 - Soma de Ímpares Consecutivos II | [![](./img/js-icon.svg)](problems/1099.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
 | 1101 - Sequência de Números e Soma | [![](./img/js-icon.svg)](problems/1101.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
 | 1113 - Crescente e Decrescente | [![](./img/js-icon.svg)](problems/1113.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
-| 1114 - Senha Fixa | [![](./img/js-icon.svg)](problems/1114.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
-| 1115 - Quadrante | [![](./img/js-icon.svg)](problems/1115.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+| 1114 - Senha Fixa | [![](./img/js-icon.svg)](problems/1114.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=NzYn-cQbQxU) |
+| 1115 - Quadrante | [![](./img/js-icon.svg)](problems/1115.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=jAnnhSSPqFs) |
 | 1116 - Dividindo X por Y | [![](./img/js-icon.svg)](problems/1116.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
 | 1117 - Validação de Nota | [![](./img/js-icon.svg)](problems/1117.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
