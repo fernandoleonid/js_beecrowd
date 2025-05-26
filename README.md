@@ -80,3 +80,15 @@ A ideia é você tentar resolver primeiro e depois comparar com o código do rep
 | 1115 - Quadrante | [![](./img/js-icon.svg)](problems/1115.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=jAnnhSSPqFs) |
 | 1116 - Dividindo X por Y | [![](./img/js-icon.svg)](problems/1116.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
 | 1117 - Validação de Nota | [![](./img/js-icon.svg)](problems/1117.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
+
+| 1118 - Nome do problema | [![](./img/js-icon.svg)](problems/1118.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=It8uODy1CqI) |
+| 1131 - Nome do problema | [![](./img/js-icon.svg)](problems/1131.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=_Z3ux0h4plU) |
+| 1132 - Nome do problema | [![](./img/js-icon.svg)](problems/1132.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=ZsCkXVaZogk) |
+| 1133 - Nome do problema | [![](./img/js-icon.svg)](problems/1133.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=3VoS_qZjJu8) |
+| 1134 - Nome do problema | [![](./img/js-icon.svg)](problems/1134.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=yZYu0o70s4E) |
+| 1142 - Nome do problema | [![](./img/js-icon.svg)](problems/1142.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=v-B7OvqLwBc) |
+| 1143 - Nome do problema | [![](./img/js-icon.svg)](problems/1143.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=JfvT0cbFRaQ) |
+| 1144 - Nome do problema | [![](./img/js-icon.svg)](problems/1144.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=LAScA7RKTVc) |
+| 1145 - Nome do problema | [![](./img/js-icon.svg)](problems/1145.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=hqgpQs4yDCU) |
+| 1146 - Nome do problema | [![](./img/js-icon.svg)](problems/1146.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/watch?v=hmVGQTZl_cc) |
+| 1149 - Nome do problema | [![](./img/js-icon.svg)](problems/1149.js) | [![](./img/youtube-icon.svg)](https://www.youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG) |
